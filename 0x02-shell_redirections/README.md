@@ -1,1 +1,1 @@
-file 0 - this script prints out Hello, World.
+file 0 - this script prints out Hello, World. file 1 - this script prints out confused smiley face. 
