@@ -1,1 +1,1 @@
-file 0 - this script prints out Hello, World. file 1 - this script prints out confused smiley face. file 2 - this opens a file. file 3 - this opens two files. file 4 - this prints the last lines of a file. 
+file 0 - this script prints out Hello, World. file 1 - this script prints out confused smiley face. file 2 - this opens a file. file 3 - this opens two files. file 4 - this prints the last lines of a file. file 5 -  this prints the first lines of a file.
