@@ -1,0 +1,1 @@
+file 0 - assigns the name ls a value of 'rm *'.
