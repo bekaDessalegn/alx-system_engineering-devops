@@ -1,1 +1,1 @@
-file 0 - assigns the name ls a value of 'rm *'.
+file 0 - assigns the name ls a value of 'rm *'. file 1 - displays hello user where user is the current linux user.
